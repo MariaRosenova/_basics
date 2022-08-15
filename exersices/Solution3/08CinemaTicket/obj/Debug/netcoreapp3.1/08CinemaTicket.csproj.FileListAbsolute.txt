@@ -1,0 +1,4 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\08CinemaTicket\obj\Debug\netcoreapp3.1\08CinemaTicket.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\08CinemaTicket\obj\Debug\netcoreapp3.1\08CinemaTicket.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\08CinemaTicket\obj\Debug\netcoreapp3.1\08CinemaTicket.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\08CinemaTicket\obj\Debug\netcoreapp3.1\08CinemaTicket.AssemblyInfo.cs

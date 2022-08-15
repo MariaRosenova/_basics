@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\bin\Debug\netcoreapp3.1\06NumberInRange.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\bin\Debug\netcoreapp3.1\06NumberInRange.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\bin\Debug\netcoreapp3.1\06NumberInRange.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\bin\Debug\netcoreapp3.1\06NumberInRange.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\bin\Debug\netcoreapp3.1\06NumberInRange.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\bin\Debug\netcoreapp3.1\06NumberInRange.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\06NumberInRange\obj\Debug\netcoreapp3.1\06NumberInRange.genruntimeconfig.cache

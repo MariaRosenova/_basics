@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\bin\Debug\netcoreapp3.1\03. Final Competition.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\03. Final Competition\obj\Debug\netcoreapp3.1\03. Final Competition.genruntimeconfig.cache

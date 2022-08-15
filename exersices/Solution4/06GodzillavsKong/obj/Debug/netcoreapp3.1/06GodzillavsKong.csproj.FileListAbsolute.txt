@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\bin\Debug\netcoreapp3.1\06GodzillavsKong.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\bin\Debug\netcoreapp3.1\06GodzillavsKong.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\bin\Debug\netcoreapp3.1\06GodzillavsKong.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\bin\Debug\netcoreapp3.1\06GodzillavsKong.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\bin\Debug\netcoreapp3.1\06GodzillavsKong.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\bin\Debug\netcoreapp3.1\06GodzillavsKong.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\06GodzillavsKong\obj\Debug\netcoreapp3.1\06GodzillavsKong.genruntimeconfig.cache

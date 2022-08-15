@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\bin\Debug\netcoreapp3.1\04MetricConverter.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\04MetricConverter\obj\Debug\netcoreapp3.1\04MetricConverter.genruntimeconfig.cache

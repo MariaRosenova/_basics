@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.genruntimeconfig.cache

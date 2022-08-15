@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\bin\Debug\netcoreapp3.1\12TradeCommissions.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\bin\Debug\netcoreapp3.1\12TradeCommissions.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\bin\Debug\netcoreapp3.1\12TradeCommissions.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\bin\Debug\netcoreapp3.1\12TradeCommissions.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\bin\Debug\netcoreapp3.1\12TradeCommissions.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\bin\Debug\netcoreapp3.1\12TradeCommissions.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\12TradeCommissions\obj\Debug\netcoreapp3.1\12TradeCommissions.genruntimeconfig.cache

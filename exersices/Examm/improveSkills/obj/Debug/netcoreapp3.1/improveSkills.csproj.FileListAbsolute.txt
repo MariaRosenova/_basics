@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\bin\Debug\netcoreapp3.1\improveSkills.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\bin\Debug\netcoreapp3.1\improveSkills.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\bin\Debug\netcoreapp3.1\improveSkills.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\bin\Debug\netcoreapp3.1\improveSkills.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\bin\Debug\netcoreapp3.1\improveSkills.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\bin\Debug\netcoreapp3.1\improveSkills.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\improveSkills\obj\Debug\netcoreapp3.1\improveSkills.genruntimeconfig.cache

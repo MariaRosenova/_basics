@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\bin\Debug\netcoreapp3.1\05SmallShop.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\bin\Debug\netcoreapp3.1\05SmallShop.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\bin\Debug\netcoreapp3.1\05SmallShop.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\bin\Debug\netcoreapp3.1\05SmallShop.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\bin\Debug\netcoreapp3.1\05SmallShop.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\bin\Debug\netcoreapp3.1\05SmallShop.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\05SmallShop\obj\Debug\netcoreapp3.1\05SmallShop.genruntimeconfig.cache

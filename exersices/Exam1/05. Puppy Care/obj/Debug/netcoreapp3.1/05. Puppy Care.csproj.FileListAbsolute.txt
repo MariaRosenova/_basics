@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\bin\Debug\netcoreapp3.1\05. Puppy Care.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Exam1\05. Puppy Care\obj\Debug\netcoreapp3.1\05. Puppy Care.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\bin\Debug\netcoreapp3.1\07WorkingHours.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\bin\Debug\netcoreapp3.1\07WorkingHours.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\bin\Debug\netcoreapp3.1\07WorkingHours.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\bin\Debug\netcoreapp3.1\07WorkingHours.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\bin\Debug\netcoreapp3.1\07WorkingHours.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\bin\Debug\netcoreapp3.1\07WorkingHours.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\07WorkingHours\obj\Debug\netcoreapp3.1\07WorkingHours.genruntimeconfig.cache

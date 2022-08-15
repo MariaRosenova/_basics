@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\bin\Debug\netcoreapp3.1\preparation.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\bin\Debug\netcoreapp3.1\preparation.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\bin\Debug\netcoreapp3.1\preparation.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\bin\Debug\netcoreapp3.1\preparation.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\bin\Debug\netcoreapp3.1\preparation.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\bin\Debug\netcoreapp3.1\preparation.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\preparation\obj\Debug\netcoreapp3.1\preparation.genruntimeconfig.cache

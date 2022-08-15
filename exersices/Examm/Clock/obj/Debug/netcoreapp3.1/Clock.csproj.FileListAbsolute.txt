@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\bin\Debug\netcoreapp3.1\Clock.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\bin\Debug\netcoreapp3.1\Clock.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\bin\Debug\netcoreapp3.1\Clock.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\bin\Debug\netcoreapp3.1\Clock.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\bin\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Clock\obj\Debug\netcoreapp3.1\Clock.genruntimeconfig.cache

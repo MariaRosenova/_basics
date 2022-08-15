@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\bin\Debug\netcoreapp3.1\02BonusScore.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution4\02BonusScore\obj\Debug\netcoreapp3.1\02BonusScore.genruntimeconfig.cache

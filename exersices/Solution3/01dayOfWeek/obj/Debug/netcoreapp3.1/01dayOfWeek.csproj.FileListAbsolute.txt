@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\bin\Debug\netcoreapp3.1\01dayOfWeek.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\bin\Debug\netcoreapp3.1\01dayOfWeek.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\bin\Debug\netcoreapp3.1\01dayOfWeek.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\bin\Debug\netcoreapp3.1\01dayOfWeek.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\bin\Debug\netcoreapp3.1\01dayOfWeek.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\bin\Debug\netcoreapp3.1\01dayOfWeek.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solution3\01dayOfWeek\obj\Debug\netcoreapp3.1\01dayOfWeek.genruntimeconfig.cache

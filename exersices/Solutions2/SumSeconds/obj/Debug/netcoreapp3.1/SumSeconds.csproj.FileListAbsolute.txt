@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions2\SumSeconds\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache

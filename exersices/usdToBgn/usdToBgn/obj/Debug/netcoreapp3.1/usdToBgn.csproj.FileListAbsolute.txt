@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.genruntimeconfig.cache

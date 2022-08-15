@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\bin\Debug\netcoreapp3.1\pool.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\bin\Debug\netcoreapp3.1\pool.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\bin\Debug\netcoreapp3.1\pool.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\bin\Debug\netcoreapp3.1\pool.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\bin\Debug\netcoreapp3.1\pool.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\bin\Debug\netcoreapp3.1\pool.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\pool\obj\Debug\netcoreapp3.1\pool.csprojAssemblyReference.cache

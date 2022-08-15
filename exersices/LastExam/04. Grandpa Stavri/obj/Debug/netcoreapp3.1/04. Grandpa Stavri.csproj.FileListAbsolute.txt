@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\bin\Debug\netcoreapp3.1\04. Grandpa Stavri.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\04. Grandpa Stavri\obj\Debug\netcoreapp3.1\04. Grandpa Stavri.genruntimeconfig.cache

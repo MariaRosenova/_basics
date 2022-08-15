@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\bin\Debug\netcoreapp3.1\forExercises.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\bin\Debug\netcoreapp3.1\forExercises.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\bin\Debug\netcoreapp3.1\forExercises.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\bin\Debug\netcoreapp3.1\forExercises.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\bin\Debug\netcoreapp3.1\forExercises.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\bin\Debug\netcoreapp3.1\forExercises.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\forExercises\obj\Debug\netcoreapp3.1\forExercises.csprojAssemblyReference.cache

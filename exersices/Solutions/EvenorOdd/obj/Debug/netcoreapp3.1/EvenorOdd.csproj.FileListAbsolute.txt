@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\bin\Debug\netcoreapp3.1\EvenorOdd.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\EvenorOdd\obj\Debug\netcoreapp3.1\EvenorOdd.genruntimeconfig.cache

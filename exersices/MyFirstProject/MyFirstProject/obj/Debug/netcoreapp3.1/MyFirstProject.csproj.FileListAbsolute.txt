@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\bin\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\MyFirstProject\MyFirstProject\obj\Debug\netcoreapp3.1\MyFirstProject.genruntimeconfig.cache

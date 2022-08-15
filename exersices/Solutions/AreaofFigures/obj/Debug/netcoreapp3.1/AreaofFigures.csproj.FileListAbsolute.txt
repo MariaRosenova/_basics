@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Solutions\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.genruntimeconfig.cache

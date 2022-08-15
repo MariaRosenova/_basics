@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\bin\Debug\netcoreapp3.1\LastExam.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\bin\Debug\netcoreapp3.1\LastExam.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\bin\Debug\netcoreapp3.1\LastExam.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\bin\Debug\netcoreapp3.1\LastExam.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\bin\Debug\netcoreapp3.1\LastExam.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\bin\Debug\netcoreapp3.1\LastExam.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.csprojAssemblyReference.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\LastExam\LastExam\obj\Debug\netcoreapp3.1\LastExam.genruntimeconfig.cache

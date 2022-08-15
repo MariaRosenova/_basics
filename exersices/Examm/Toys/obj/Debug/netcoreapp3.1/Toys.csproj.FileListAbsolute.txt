@@ -1,0 +1,13 @@
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\bin\Debug\netcoreapp3.1\Toys.exe
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\bin\Debug\netcoreapp3.1\Toys.deps.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\bin\Debug\netcoreapp3.1\Toys.runtimeconfig.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\bin\Debug\netcoreapp3.1\Toys.runtimeconfig.dev.json
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\bin\Debug\netcoreapp3.1\Toys.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\bin\Debug\netcoreapp3.1\Toys.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.AssemblyInfoInputs.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.AssemblyInfo.cs
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.dll
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.pdb
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.genruntimeconfig.cache
+C:\Users\PC-1\OneDrive\Документи\Maria\informatika\c# basic\Examm\Toys\obj\Debug\netcoreapp3.1\Toys.csprojAssemblyReference.cache
